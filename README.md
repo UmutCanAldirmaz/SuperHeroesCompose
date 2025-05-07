@@ -22,11 +22,7 @@ A simple Android app built with Jetpack Compose and Material Design, showcasing 
 ### Night Theme
 ![NightTheme](https://github.com/user-attachments/assets/4cc15dee-8a28-453e-b10f-3f2a47aabf92)
 
-
 ## Getting Started
 1. Clone the repository.
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or device.
-
-## Acknowledgments
-- Built as part of the Android Basics in Compose course.
