@@ -20,7 +20,8 @@ A simple Android app built with Jetpack Compose and Material Design, showcasing 
 
 
 ### Night Theme
-![NightTheme](https://github.com/user-attachments/assets/24ed6302-56e9-4656-a327-9af6d3727489)
+![NightTheme](https://github.com/user-attachments/assets/4cc15dee-8a28-453e-b10f-3f2a47aabf92)
+
 
 ## Getting Started
 1. Clone the repository.
