@@ -16,10 +16,11 @@ A simple Android app built with Jetpack Compose and Material Design, showcasing 
 ## Screenshots
 
 ### Day Theme
-![Day Theme](screenshots/day_theme.png)
+![DayTheme](https://github.com/user-attachments/assets/1edd432f-39c0-4126-a389-a2eb3852db02)
+
 
 ### Night Theme
-![Night Theme](screenshots/night_theme.png)
+![NightTheme](https://github.com/user-attachments/assets/24ed6302-56e9-4656-a327-9af6d3727489)
 
 ## Getting Started
 1. Clone the repository.
