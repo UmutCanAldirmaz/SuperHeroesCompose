@@ -96,6 +96,7 @@ fun HeroListItem(
     Card(
         elevation = CardDefaults.cardElevation(defaultElevation = 2.dp),
         modifier = modifier,
+
     ) {
         Row(
             modifier = Modifier
